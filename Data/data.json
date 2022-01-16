@@ -24,7 +24,8 @@
             "shells": [
                 1
             ],
-            "electron_configuration": "1s¹"
+            "electron_configuration": "1s¹",
+            "electron_block_type" : "S Block"
 
         }, 
         {
@@ -51,7 +52,8 @@
             "shells": [
                 2
             ],
-            "electron_configuration": "1s²"
+            "electron_configuration": "1s²",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Lithium", 
@@ -78,7 +80,8 @@
                 2,
                 1
             ],
-            "electron_configuration": "1s² 2s¹"
+            "electron_configuration": "1s² 2s¹",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Beryllium", 
@@ -105,7 +108,8 @@
                 2,
                 2
             ],
-            "electron_configuration": "1s² 2s²"
+            "electron_configuration": "1s² 2s²",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Boron", 
@@ -132,7 +136,8 @@
                 2,
                 3
             ],
-            "electron_configuration": "1s² 2s² 2p¹"
+            "electron_configuration": "1s² 2s² 2p¹",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Carbon", 
@@ -159,7 +164,8 @@
                 2,
                 4
             ],
-            "electron_configuration": "1s² 2s² 2p²"
+            "electron_configuration": "1s² 2s² 2p²",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Nitrogen", 
@@ -186,7 +192,8 @@
                 2,
                 5
             ],
-            "electron_configuration": "1s² 2s² 2p³"
+            "electron_configuration": "1s² 2s² 2p³",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Oxygen", 
@@ -213,7 +220,8 @@
                 2,
                 6
             ],
-            "electron_configuration": "1s² 2s² 2p⁴"
+            "electron_configuration": "1s² 2s² 2p⁴",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Fluorine", 
@@ -240,7 +248,8 @@
                 2,
                 7
             ],
-            "electron_configuration": "1s² 2s² 2p⁵"
+            "electron_configuration": "1s² 2s² 2p⁵",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Neon", 
@@ -267,7 +276,8 @@
                 2,
                 8
             ],
-            "electron_configuration": "1s² 2s² 2p⁶"
+            "electron_configuration": "1s² 2s² 2p⁶",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Sodium", 
@@ -295,7 +305,8 @@
                 8, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s¹",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Magnesium", 
@@ -323,7 +334,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s²",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Aluminium", 
@@ -351,7 +363,8 @@
                 8, 
                 3
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p¹",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Silicon", 
@@ -379,7 +392,8 @@
                 8, 
                 4
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p²",
+            "electron_block_type": "P Block"
         }, 
         {
             "name": "Phosphorus", 
@@ -407,7 +421,8 @@
                 8, 
                 5
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p³",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Sulfur", 
@@ -435,7 +450,8 @@
                 8, 
                 6
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁴",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Chlorine", 
@@ -463,7 +479,8 @@
                 8, 
                 7
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁵",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Argon", 
@@ -491,7 +508,8 @@
                 8, 
                 8
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Potassium", 
@@ -520,7 +538,8 @@
                 8, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Calcium", 
@@ -549,7 +568,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Scandium", 
@@ -578,7 +598,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Titanium", 
@@ -607,7 +628,8 @@
                 10, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d²",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Vanadium", 
@@ -636,7 +658,8 @@
                 11, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d³",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Chromium", 
@@ -665,7 +688,8 @@
                 13, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d⁵",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Manganese", 
@@ -694,7 +718,8 @@
                 13, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁵",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Iron", 
@@ -723,7 +748,8 @@
                 14, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Cobalt", 
@@ -752,7 +778,8 @@
                 15, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁷"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁷",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Nickel", 
@@ -781,7 +808,8 @@
                 16, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁸"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁸",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Copper", 
@@ -810,7 +838,8 @@
                 18, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹ 3d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Zinc", 
@@ -839,7 +868,8 @@
                 18, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Gallium", 
@@ -868,7 +898,8 @@
                 18, 
                 3
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p¹",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Germanium", 
@@ -897,7 +928,8 @@
                 18, 
                 4
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p²",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Arsenic", 
@@ -926,7 +958,8 @@
                 18, 
                 5
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p³",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Selenium", 
@@ -955,7 +988,8 @@
                 18, 
                 6
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁴",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Bromine", 
@@ -984,7 +1018,8 @@
                 18, 
                 7
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Krypton", 
@@ -1013,7 +1048,8 @@
                 18, 
                 8
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Rubidium", 
@@ -1043,7 +1079,8 @@
                 8, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Strontium", 
@@ -1073,7 +1110,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s²",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Yttrium", 
@@ -1103,7 +1141,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Zirconium", 
@@ -1133,7 +1172,8 @@
                 10, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d²",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Niobium", 
@@ -1163,7 +1203,8 @@
                 12, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁴",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Molybdenum", 
@@ -1193,7 +1234,8 @@
                 13, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁵",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Technetium", 
@@ -1223,7 +1265,8 @@
                 13, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d⁵",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Ruthenium", 
@@ -1253,7 +1296,8 @@
                 15, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁷"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁷",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Rhodium", 
@@ -1283,7 +1327,8 @@
                 16, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d⁸",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Palladium", 
@@ -1312,7 +1357,8 @@
                 18, 
                 18
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 4d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 4d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Silver", 
@@ -1342,7 +1388,8 @@
                 18, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s¹ 4d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Cadmium", 
@@ -1372,7 +1419,8 @@
                 18, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Indium", 
@@ -1402,7 +1450,8 @@
                 18, 
                 3
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p¹",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Tin", 
@@ -1432,7 +1481,8 @@
                 18, 
                 4
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p²",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Antimony", 
@@ -1462,7 +1512,8 @@
                 18, 
                 5
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p³",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Tellurium", 
@@ -1492,7 +1543,8 @@
                 18, 
                 6
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁴",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Iodine", 
@@ -1522,7 +1574,8 @@
                 18, 
                 7
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁵",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Xenon", 
@@ -1552,7 +1605,8 @@
                 18, 
                 8
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Cesium", 
@@ -1583,7 +1637,8 @@
                 8, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s¹",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Barium", 
@@ -1614,7 +1669,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s²",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Lanthanum", 
@@ -1645,7 +1701,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 5d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 5d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Cerium", 
@@ -1676,7 +1733,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹ 5d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹ 5d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Praseodymium", 
@@ -1707,7 +1765,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f³",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Neodymium", 
@@ -1738,7 +1797,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁴",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Promethium", 
@@ -1769,7 +1829,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁵",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Samarium", 
@@ -1800,7 +1861,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁶",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Europium", 
@@ -1831,7 +1893,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁷"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁷",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Gadolinium", 
@@ -1862,7 +1925,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁷ 5d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁷ 5d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Terbium", 
@@ -1893,7 +1957,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Dysprosium", 
@@ -1924,7 +1989,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁰",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Holmium", 
@@ -1955,7 +2021,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Erbium", 
@@ -1986,7 +2053,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹²",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Thulium", 
@@ -2017,7 +2085,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹³",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Ytterbium", 
@@ -2048,7 +2117,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Lutetium", 
@@ -2079,7 +2149,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Hafnium", 
@@ -2110,7 +2181,8 @@
                 10, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d²",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Tantalum", 
@@ -2141,7 +2213,8 @@
                 11, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d³",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Tungsten", 
@@ -2172,7 +2245,8 @@
                 12, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁴",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Rhenium", 
@@ -2203,7 +2277,8 @@
                 13, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁵",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Osmium", 
@@ -2234,7 +2309,8 @@
                 14, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁶",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Iridium", 
@@ -2265,7 +2341,8 @@
                 15, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁷"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d⁷",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Platinum", 
@@ -2296,7 +2373,8 @@
                 17, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s¹ 4f¹⁴ 5d⁹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s¹ 4f¹⁴ 5d⁹",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Gold", 
@@ -2327,7 +2405,8 @@
                 18, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s¹ 4f¹⁴ 5d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s¹ 4f¹⁴ 5d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Mercury", 
@@ -2358,7 +2437,8 @@
                 18, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Thallium", 
@@ -2389,7 +2469,8 @@
                 18, 
                 3
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p¹",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Lead", 
@@ -2420,7 +2501,8 @@
                 18, 
                 4
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p²",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Bismuth", 
@@ -2451,7 +2533,8 @@
                 18, 
                 5
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p³",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Polonium", 
@@ -2482,7 +2565,8 @@
                 18, 
                 6
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁴",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Astatine", 
@@ -2513,7 +2597,8 @@
                 18, 
                 7
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁵",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Radon", 
@@ -2544,7 +2629,8 @@
                 18, 
                 8
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Francium", 
@@ -2576,7 +2662,8 @@
                 8, 
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s¹",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Radium", 
@@ -2608,7 +2695,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s²",
+            "electron_block_type" : "S Block"
         }, 
         {
             "name": "Actinium", 
@@ -2640,7 +2728,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 6d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 6d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Thorium", 
@@ -2672,7 +2761,8 @@
                 10, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 6d²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 6d²",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Protactinium", 
@@ -2704,7 +2794,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f² 6d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f² 6d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Uranium", 
@@ -2736,7 +2827,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f³ 6d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f³ 6d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Neptunium", 
@@ -2768,7 +2860,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁴ 6d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁴ 6d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Plutonium", 
@@ -2800,7 +2893,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁶",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Americium", 
@@ -2832,7 +2926,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁷"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁷",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Curium", 
@@ -2864,7 +2959,8 @@
                 9, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁷ 6d¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁷ 6d¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Berkelium", 
@@ -2896,7 +2992,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f⁹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Californium", 
@@ -2928,7 +3025,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁰",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Einsteinium", 
@@ -2960,7 +3058,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹¹",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Fermium", 
@@ -2992,7 +3091,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹²",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Mendelevium", 
@@ -3024,7 +3124,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹³",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Nobelium", 
@@ -3056,7 +3157,8 @@
                 8, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴",
+            "electron_block_type" : "F Block"
         }, 
         {
             "name": "Lawrencium", 
@@ -3088,7 +3190,8 @@
                 8, 
                 3
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 7p¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 7p¹",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Rutherfordium", 
@@ -3120,7 +3223,8 @@
                 10, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d²",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Dubnium", 
@@ -3152,7 +3256,8 @@
                 11, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d³",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Seaborgium", 
@@ -3184,7 +3289,8 @@
                 12, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁴",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Bohrium", 
@@ -3216,7 +3322,8 @@
                 13, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁵",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Hassium", 
@@ -3248,7 +3355,8 @@
                 14, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁶",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Meitnerium", 
@@ -3280,7 +3388,8 @@
                 15, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁷"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁷",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Darmstadtium", 
@@ -3312,7 +3421,8 @@
                 16, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s¹ 5f¹⁴ 6d⁹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s¹ 5f¹⁴ 6d⁹",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Roentgenium", 
@@ -3344,7 +3454,8 @@
                 17, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d⁹",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Copernicium", 
@@ -3376,7 +3487,8 @@
                 18, 
                 2
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰",
+            "electron_block_type" : "D Block"
         }, 
         {
             "name": "Nihonium", 
@@ -3408,7 +3520,8 @@
                 18, 
                 3
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p¹"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p¹",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Flerovium", 
@@ -3440,7 +3553,8 @@
                 18, 
                 4
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p²"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p²",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Moscovium", 
@@ -3472,7 +3586,8 @@
                 18, 
                 5
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p³"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p³",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Livermorium", 
@@ -3504,7 +3619,8 @@
                 18, 
                 6
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁴"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁴",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Tennessine", 
@@ -3536,7 +3652,8 @@
                 18, 
                 7
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁵"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁵",
+            "electron_block_type" : "P Block"
         }, 
         {
             "name": "Oganesson", 
@@ -3568,7 +3685,8 @@
                 18, 
                 8
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁶"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁶",
+            "electron_block_type" : "P Block"
         },
         {
             "name": "Ununennium",
@@ -3601,7 +3719,8 @@
                 8,
                 1
             ],
-            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁷"
+            "electron_configuration": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f¹⁴ 5d¹⁰ 6p⁶ 7s² 5f¹⁴ 6d¹⁰ 7p⁷",
+            "electron_block_type" : "P Block"
         }
     ]
 }
